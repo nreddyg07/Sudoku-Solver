@@ -1,5 +1,5 @@
-**Steps to solve the Sudoku Puzzle in Python:**\n
- In this method for solving the sudoku puzzle, first, we assign the size of the 2D matrix to a variable M (M*M).
+**Steps to solve the Sudoku Puzzle in Python:**
+ In this method for solving the sudoku puzzle, first, we assign the size of the 2D matrix to a variable M (M * M).
  Then we assign the utility function (puzzle) to print the grid.
  Later it will assign num to the row and col.
  If we find the same num in the same row or same column or in the specific 3*3 matrix, ‘false’ will be returned.
