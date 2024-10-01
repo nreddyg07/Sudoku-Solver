@@ -14,3 +14,8 @@ A function will check if placing a number in a specific row, column, or 3x3 grid
 **4. Backtracking:**
 This will be the main algorithm that tries to solve the puzzle by making guesses and then backtracking if those guesses lead to an invalid solution.
 
+##Snapshot
+![image](https://github.com/user-attachments/assets/5ce5ec1d-f7df-4f80-bc62-b7bf051220e8)
+
+![image](https://github.com/user-attachments/assets/a41e9726-dc20-44b6-976d-c37de9a269df)
+
