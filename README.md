@@ -19,7 +19,8 @@ This will be the main algorithm that tries to solve the puzzle by making guesses
 ![image](https://github.com/user-attachments/assets/5ce5ec1d-f7df-4f80-bc62-b7bf051220e8)
 
 
-![image](https://github.com/user-attachments/assets/0ec0bed0-cdc3-45ba-8f86-e3c1ab927c00)
+![image](https://github.com/user-attachments/assets/33e1fd60-e151-4cba-a8a9-3f823723fae6)
+
 
 
 
